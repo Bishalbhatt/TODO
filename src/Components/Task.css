@@ -1,0 +1,22 @@
+.task{
+    display: flex;
+    flex-direction: row;
+    margin-top:2vh;
+    justify-content: space-between;
+}
+/* .task>*{
+    padding-left: 2vw;
+} */
+.task>p{
+    font-size: 20px;
+}
+.buttons{
+    display: flex;
+}
+#update{
+    margin-left: 2vw;
+    padding: 0.5vw 1vh;
+    font-size: 20px;
+    border-radius: 1vw;
+    background-color: aqua;
+}

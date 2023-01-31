@@ -1,0 +1,10 @@
+.tasks{
+    margin: 10px;
+    border: 2px solid black;
+    border-radius: 1.5vh;
+    padding: 3vw;
+    background-color: #F0F8FF;
+}
+.tasks>h2{
+    font-size: 4.5vh;
+}
